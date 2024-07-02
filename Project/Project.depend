@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1584205420 source:c:\omar\programacion\c++\binary-tree\project\main.cpp
+	<iostream>
+
+1719897483 source:c:\omar\programacion\c++\binary-tree\project\node.cpp
+	"Node.h"
+
+1719897370 c:\omar\programacion\c++\binary-tree\project\node.h
+	"Student.h"
+	<iostream>
+
+1719897029 c:\omar\programacion\c++\binary-tree\project\student.h
+	<iostream>
+
+1719897029 source:c:\omar\programacion\c++\binary-tree\project\student.cpp
+	"Student.h"
+
+1719895343 source:c:\omar\programacion\c++\binary-tree\project\tree.cpp
+	"Tree.h"
+
+1719897789 c:\omar\programacion\c++\binary-tree\project\tree.h
+	"Node.h"
+
