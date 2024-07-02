@@ -18,7 +18,7 @@ class Tree
         Node* maximum(Node*);
         int height(Node*);
         int Size(Node*);
-        Node* removeStud(Node*, float);
+        Node* removeStud(Node*, int);
         void writeTree(Node*, ofstream&);
         void write(Node*);
         void load();
