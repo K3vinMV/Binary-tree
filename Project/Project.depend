@@ -15,13 +15,13 @@
 1719897029 source:c:\omar\programacion\c++\binary-tree\project\student.cpp
 	"Student.h"
 
-1719899160 source:c:\omar\programacion\c++\binary-tree\project\tree.cpp
+1719899886 source:c:\omar\programacion\c++\binary-tree\project\tree.cpp
 	"Tree.h"
 	"Student.h"
 	"Node.h"
 	<fstream>
 	<sstream>
 
-1719897789 c:\omar\programacion\c++\binary-tree\project\tree.h
+1719899341 c:\omar\programacion\c++\binary-tree\project\tree.h
 	"Node.h"
 
