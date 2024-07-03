@@ -7,6 +7,7 @@
 
 Tree::Tree()
 {
+    root=nullptr;
     //ctor
 }
 Tree::Tree(Node*)
@@ -247,10 +248,10 @@ void Tree::load()
         aux.setname(field);
 
         getline(ss_reg, field, '|');
-        aux.setcode(stod(field));
+        aux.setcode(stoi(field));
 
         getline(ss_reg, field, '|');
-        aux.setscore(stoi(field));
+        aux.setscore(stod(field));
 
         Insert(aux,root);
     }

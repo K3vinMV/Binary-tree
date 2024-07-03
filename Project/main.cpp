@@ -147,7 +147,7 @@ int main()
             cout<<"--------SIZE--------"<<endl;
             int sz;
             sz=tree->Size(tree->root);
-            cout<<"El tamano del arbol es: "<<sz<<endl;
+            cout<<"Size: "<<sz<<endl;
             pause();
             break;
 
